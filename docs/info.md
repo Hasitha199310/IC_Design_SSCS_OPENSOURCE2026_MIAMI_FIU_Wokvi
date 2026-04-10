@@ -13,7 +13,7 @@ Explain how your project works
 
 ## How to test
 
-Explain how to use your project
+This project is a full bit adder and it will be tested by changing the bits of the input.
 
 ## External hardware
 
